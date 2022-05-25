@@ -1,0 +1,18 @@
+#ifndef CALCULATOR_H
+#define CALCULATOR_H
+
+/* includes */
+#include <stdio.h>
+#include <stdlib.h>
+
+/* prototypes */
+
+int add(int a, int b);
+
+int sub(int a, int b);
+
+int div(int a, int b);
+
+int mult(int a, int b);
+
+#endif /* CALCULATOR_H */
